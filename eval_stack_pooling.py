@@ -14,7 +14,7 @@ import paddle.fluid as fluid
 import numpy
 from src.data_loader_BDS_fluid_Stage2 import ImageDataLoader # src.data_loader :orginal version  data_loader : pyramid version
 #from src.fluid_model import *
-from src.fluid_mscnn_model import *
+from src.fluid_bds_model import *
 
 # import numpy as np
 # import paddle.fluid as fluid
