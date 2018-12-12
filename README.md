@@ -1,5 +1,5 @@
 # BDS_Crowd_Counting
-paddlepaddle implementations of 2018 baidu star developer contest for crowd counting
+paddlepaddle implementations of 2018 baidu star developer contest for crowd counting, we got rank 5/1371.
 
 competition description: http://aistudio.baidu.com/aistudio/#/competition/detail/2
 
